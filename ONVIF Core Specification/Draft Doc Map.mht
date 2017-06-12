@@ -1,0 +1,378 @@
+From: <Saved by UnMHT>
+Subject: =?iso-2022-jp?B?RHJhZnQgRG9jIE1hcA==?=
+Date: Thu, Dec 15 2011 16:40:46 GMT+0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0000_E62824DE.D11512D4";
+	type="text/html"
+
+------=_NextPart_000_0000_E62824DE.D11512D4
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.onvif.org/specs/DocMap.html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/htm=
+l4/strict.dtd">
+<html><head>
+
+
+  <meta http-equiv=3D"content-type" content=3D"text/html;=20
+charset=3DISO-8859-1">
+  <meta id=3D"MetaDescription" name=3D"DESCRIPTION" content=3D"ONVIF">
+  <meta id=3D"MetaCopyright" name=3D"COPYRIGHT" content=3D"Copyright 2010=20
+ONVIF">
+  <meta id=3D"MetaAuthor" name=3D"AUTHOR" content=3D"ONVIF">
+  <meta name=3D"RESOURCE-TYPE" content=3D"DOCUMENT">
+  <meta name=3D"DISTRIBUTION" content=3D"GLOBAL">
+  <meta name=3D"ROBOTS" content=3D"INDEX, FOLLOW">
+  <meta name=3D"REVISIT-AFTER" content=3D"1 DAYS">
+  <meta name=3D"RATING" content=3D"GENERAL">
+  <meta http-equiv=3D"PAGE-ENTER"=20
+content=3D"RevealTrans(Duration=3D0,Transition=3D1)">
+  <style id=3D"StylePlaceholder" type=3D"text/css">
+  </style>
+  <link id=3D"_Portals__default_" rel=3D"stylesheet" type=3D"text/css"=20
+href=3D"www.onvif.org/Portals/_default/default.css">
+  <link id=3D"_Portals_3_Skins_DNN_BlueLyn_" rel=3D"stylesheet"=20
+type=3D"text/css" href=3D"www.onvif.org/Skins/DNN-BlueLyn/skin.css">
+  <link id=3D"_Portals_3_Containers_DNN_BlueLyn_" rel=3D"stylesheet"=20
+type=3D"text/css"=20
+href=3D"www.onvif.org/Containers/DNN-BlueLyn/container.css">
+  <link id=3D"_Portals_3_" rel=3D"stylesheet" type=3D"text/css"=20
+href=3D"www.onvif.org/portal.css">
+  <link rel=3D"SHORTCUT ICON" href=3D"http://www.onvif.org/favicon.ico">
+  <title>Draft Doc Map</title>
+  <style types=3D"text/css">
+  html {
+  max-width: 1100px;
+  margin: -15px auto;
+  background: #888; /* Fills the page */
+  position: relative; /* Fix for absolute positioning */
+}
+ h3 {line-height:50%; font-weight: bold; font-size: 100%; }
+  h3 a:link{display:block;font-weight:normal;color:rgb(26, 99, 136);text-de=
+coration: underline;}
+  h3 a:visited{display:block;font-weight:normal;color:rgb(26, 99, 136);text=
+-decoration: underline;}
+  h1 {font-weight: normal; font-size: 160%; color:rgb(26, 99, 136);}
+  A:link {text-decoration: none; color:rgb(26, 32, 136);} A:visited {text-d=
+ecoration: none} A:hover {text-decoration: underline}
+  </style>
+</head><body style=3D"color: #404040; background-color: rgb(255, 255,
+ 255); font-family: Arial;font-size:80%;" alink=3D"#2c3ea1" link=3D"#2c3ea1=
+"=20
+vlink=3D"#2c3ea1"><div style=3D"font-size: 0.8em; border: 1px solid black;=
+ background-color: white; color: black; padding: 0.5em; text-align: center;=
+">Saved from <a class=3D"unmht_link_to_original" style=3D"color: blue; back=
+ground-color: inherit; text-decoration: underline;" href=3D"http://www.onvi=
+f.org/specs/DocMap.html">http://www.onvif.org/specs/DocMap.html</a><br />Th=
+u Dec 15 2011 16:40:45 GMT+0800<br />Saved by UnMHT Ver.5.7.0</div><div sty=
+le=3D"position: relative">
+<div id=3D"overDiv" style=3D"position: absolute; visibility: hidden;=20
+z-index: 1; margin-top:15px;"></div>
+
+<div id=3D"overDiv" style=3D"position: absolute; visibility: hidden; z-inde=
+x: 1;"></div>
+
+
+<h1 style=3D"color: red; font-style: italic;">
+<img style=3D"width: 279px; height: 86px;" alt=3D"Onvif" src=3D"http://www.=
+onvif.org/logo.gif">
+</h1>
+<table style=3D"text-align: left; width: 100%;" border=3D"0" cellpadding=3D=
+"4"
+ cellspacing=3D"2">
+  <tbody>
+    <tr>
+      <td style=3D"background-color: rgb(59, 80, 161); "><span=20
+style=3D"font-weight: bold; color: white; font-family: Arial; padding: 10px=
+;">ONVIF
+Specification Map</span></td>
+    </tr>
+  </tbody>
+</table>
+<table style=3D"text-align: left; width: 100%;" border=3D"0"=20
+cellpadding=3D"20" cellspacing=3D"2">
+  <tbody>
+    <tr>
+      <td style=3D"width: 50%; vertical-align: top; height:100%;">
+      <h1>Core Specification</h1>
+Any ONVIF compliant device must implement the functions and services define=
+d in the Core Specification.
+      <br>
+<h3><a href=3D"core/ONVIF-Core-Specification-v210.pdf"><strong>ONVIF Core=
+ Specification</strong></a></h3>
+The following functional areas are covered:
+      <ul style=3D"background-color: #f0f0f0;">
+        <li>Device Discovery</li>
+        <li>Device Management</li>
+        <li>Event Framework</li>
+      </ul>
+	  <br/>
+      <h1>Data Format Specification</h1>
+This section includes documents specifying ONVIF extensions to data transpo=
+rt formats for Video, Audio and Metadata.=20
+      <br>
+      <ul style=3D"background-color: #f0f0f0;">
+        <li><a href=3D"stream/ONVIF-Streaming-Spec-v210.pdf">Streaming</a><=
+/li>
+      </ul>
+      </td>
+      <td style=3D"width: 50%; vertical-align: top; height:100%;">
+      <h1>Service Specifications</h1>
+The documents in this section define ONVIF compliant services as used
+by the device types.
+      <ul style=3D"line-height: 175%; background-color: #f0f0f0;">
+        <li><a href=3D"srv/io/ONVIF-DeviceIo-Service-Spec-v210.pdf">Device=
+ IO</a></li>
+        <li><a href=3D"srv/media/ONVIF-Media-Service-Spec-v210.pdf">Media</=
+a></li>
+        <li><a href=3D"srv/img/ONVIF-Imaging-Service-Spec-v210.pdf">Imaging=
+</a></li>
+        <li><a href=3D"srv/rcv/ONVIF-Receiver-Service-Spec-v210.pdf">Receiv=
+er</a></li>
+        <li><a href=3D"srv/disp/ONVIF-Display-Service-Spec-v210.pdf">Displa=
+y</a></li>
+        <li><a href=3D"srv/ptz/ONVIF-PTZ-Service-Spec-v210.pdf">PTZ</a></li=
+>       =20
+		<li><a href=3D"srv/analytics/ONVIF-VideoAnalytics-Service-Spec-v210.pdf">=
+Video Analytics</a></li>       =20
+		<li><a href=3D"srv/analytics/ONVIF-VideoAnalyticsDevice-Service-Spec-v210=
+.pdf">Video Analytics Device</a></li>
+		<li><a href=3D"srv/rec/ONVIF-RecordingControl-Service-Spec-v210.pdf">Reco=
+rding Control</a></li>       =20
+		<li><a href=3D"srv/rsrch/ONVIF-RecordingSearch-Service-Spec-v210.pdf">Rec=
+ording Search</a></li>       =20
+		<li><a href=3D"srv/replay/ONVIF-ReplayControl-Service-Spec-v210.pdf">Repl=
+ay Control</a></li>     =20
+		</ul>
+      </td>
+    </tr>
+	<tr>
+      <td style=3D"width: 100%; vertical-align: top;" colspan=3D"2" >
+      <dl>
+        <h1>Device Type Definitions</h1>
+      </dl>
+      <dl>
+This section lists typical device types. For each device type a separate sp=
+ecification list the included services.
+To ease navigation the referenced service documents are listed below. Fille=
+d circles mark mandatory services while bare circles denote=20
+conditionalor optional ones that are typically used for the referenced type=
+.      </dl>
+      <table style=3D"text-align: left; width: 100%; border=3D"0" cellpaddi=
+ng=3D"1" cellspacing=3D"0">
+        <tbody>
+          <tr>
+            <td colspan=3D"2" rowspan=3D"1">
+            <h3><a href=3D"td/nvt/ONVIF-NVT-Definition-v210.pdf"><strong>Ne=
+twork Video Transmitter - NVT</strong></a></h3>
+			Device that sends media data over an IP network to a client. For example=
+, an NVT may be an IP network camera or an encoder device.
+            </td>
+          </tr>
+          <tr style=3D"background-color: #f0f0f0" >
+            <td style=3D"vertical-align: top; width: 40%;">
+            <ul>
+              <li><a href=3D"core/ONVIF-Core-Specification-v210.pdf">Core</=
+a></li>
+              <li><a href=3D"srv/media/ONVIF-Media-Service-Spec-v210.pdf">M=
+edia</a></li>
+              <li><a href=3D"stream/ONVIF-Streaming-Spec-v210.pdf">Streamin=
+g</a></li>
+              <li><a href=3D"srv/io/ONVIF-DeviceIo-Service-Spec-v210.pdf">D=
+evice
+IO</a></li>
+            </ul>
+            </td>
+            <td style=3D"vertical-align: top;">
+            <ul style=3D"list-style-type: circle;">
+			<li><a href=3D"srv/img/ONVIF-Imaging-Service-Spec-v210.pdf">Imaging</a><=
+/li>
+              <li><a href=3D"srv/ptz/ONVIF-PTZ-Service-Spec-v210.pdf">PTZ</=
+a></li>
+			<li><a href=3D"srv/analytics/ONVIF-VideoAnalytics-Service-Spec-v210.pdf"=
+>Video
+ Analytics</a></li>
+            </ul>
+            </td>
+          </tr>
+          <tr>
+            <td colspan=3D"2" rowspan=3D"1">
+            <h3><a href=3D"td/nvd/ONVIF-NVD-Definition-v210.pdf"><strong>Ne=
+twork Video Display - NVD</strong></a></h3>
+			Device that receives media data over an IP network and outputs it. For=
+ example, an NVD may be an IP network video monitor which displays video an=
+d outputs audio.
+            </td>
+          </tr>
+          <tr style=3D"background-color: #f0f0f0" >
+            <td>
+            <ul>
+              <li><a href=3D"core/ONVIF-Core-Specification-v210.pdf">Core</=
+a></li>
+              <li><a href=3D"stream/ONVIF-Streaming-Spec-v210.pdf">Streamin=
+g</a></li>
+              <li><a href=3D"srv/rcv/ONVIF-Receiver-Service-Spec-v210.pdf">=
+Receiver</a></li>
+            </ul>
+            </td>
+            <td style=3D"vertical-align: top;">
+			<ul>
+              <li><a href=3D"srv/disp/ONVIF-Display-Service-Spec-v210.pdf">=
+Display</a></li>
+              <li><a href=3D"srv/io/ONVIF-DeviceIo-Service-Spec-v210.pdf">D=
+evice IO</a></li>
+            </ul>
+            </td>
+          </tr>
+          <tr>
+            <td colspan=3D"2" rowspan=3D"1">
+            <h3><a href=3D"td/nvs/ONVIF-NVS-Definition-v210.pdf"><strong>Ne=
+twork Video Storage - NVS</strong></a></h3>
+			Device that records media and metadata received from a streaming device,=
+ such as an NVT, to a permanent storage medium.=20
+            </td>
+          </tr>
+          <tr style=3D"background-color: #f0f0f0" >
+            <td>
+            <ul>
+              <li><a=20
+href=3D"core/ONVIF-Core-Specification-v210.pdf">Core</a></li>
+              <li><a href=3D"stream/ONVIF-Streaming-Spec-v210.pdf">Streamin=
+g</a></li>
+				<li><a href=3D"srv/rsrch/ONVIF-RecordingSearch-Service-Spec-v210.pdf">R=
+ecording Search</a></li>
+				<li><a href=3D"srv/replay/ONVIF-ReplayControl-Service-Spec-v210.pdf">Re=
+play
+ Control</a></li>
+            </ul>
+            </td>
+            <td style=3D"vertical-align: top;">
+            <ul style=3D"list-style-type: circle;">
+              <li><a=20
+href=3D"srv/io/ONVIF-DeviceIo-Service-Spec-v210.pdf">Device IO</a></li>
+              <li><a=20
+href=3D"srv/rcv/ONVIF-Receiver-Service-Spec-v210.pdf">Receiver</a></li>
+			  <li><a=20
+href=3D"srv/rec/ONVIF-RecordingControl-Service-Spec-v210.pdf">Recording=20
+Control</a></li>
+            </ul>
+            </td>
+          </tr>
+          <tr>
+            <td colspan=3D"2" rowspan=3D"1">
+            <h3><a href=3D"td/nva/ONVIF-NVA-Definition-v210.pdf"><strong>Ne=
+twork Video Analytics - NVA</strong></a></h3>
+			Device that performs analysis on media data and meta data received from=
+ from an IP streaming device.
+            </td>
+          </tr>
+          <tr style=3D"background-color: #f0f0f0" >
+            <td>
+            <ul>
+              <li><a href=3D"core/ONVIF-Core-Specification-v210.pdf">Core</=
+a></li>
+				<li><a href=3D"stream/ONVIF-Streaming-Spec-v210.pdf">Streaming</a></li>
+				<li><a href=3D"srv/rcv/ONVIF-Receiver-Service-Spec-v210.pdf">Receiver</=
+a></li>
+            </ul>
+            </td>
+            <td style=3D"vertical-align: top;">
+            <ul>
+				<li><a href=3D"srv/analytics/ONVIF-VideoAnalytics-Service-Spec-v210.pdf=
+">Video Analytics</a></li>
+				<li><a href=3D"srv/analytics/ONVIF-VideoAnalyticsDevice-Service-Spec-v2=
+10.pdf">Video Analytics Device</a></li>
+              <li style=3D"list-style-type: circle;"><a href=3D"srv/io/ONVI=
+F-DeviceIo-Service-Spec-v210.pdf">Device IO</a></li>
+            </ul>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+	</tr>
+  </tbody>
+</table>
+<table style=3D"text-align: center; color: grey; font-size: 80%; width: 100=
+%;" border=3D"0">
+  <tbody>
+    <tr>
+      <td>Copyright =A9 2011 ONVIF. All Rights Reserved.</td>
+    </tr>
+  </tbody>
+</table>
+</div></body></html>
+------=_NextPart_000_0000_E62824DE.D11512D4
+Content-Type: image/x-icon
+Content-Transfer-Encoding: base64
+Content-Location: http://www.onvif.org/favicon.ico
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAICAgICAgICAgICAgICAgMCAgICAwMDAwMDAwMEAwMD
+AwMDBAQEBAUEBAQFBQYGBQUHBwcHBwcHBwcHBwcHBwf/2wBDAQICAgMDAwUEBAUHBgUGBwgICAgI
+CAgHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwf/wAARCAAQABADAREA
+AhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAYICf/EACMQAAEFAQABBQADAAAAAAAAAAMBAgQF
+BgcUAAgREhMWITH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQb/xAAiEQACAgEEAwEBAQAAAAAAAAAB
+AgMRBAAFEjETIWFBoeH/2gAMAwEAAhEDEQA/ANgpenv+i7zU4HHaUuSqsF4QtfoK2NElWZ508KyB
+V8BZ4zx46MEny8rgPd9v6aif6ukTDgwsKPJnj8jzXwUkhQq+izcaJ99CxqM088+W0MZ4Rxgcm7Yk
+9Kt+h9NaIkF2HLrfOms9bZ7vB6K9g5SwfpY9ay7obC1P4dRNjzqqLBDMiSZ5AwzBPHUo3GYZh/zG
+8TjAY+aj8YxFKqlhx5cHC+2FMWIYLbAg0aIIsg6ogNHVsWH3v+VqaOi1Xevb53PU9i5VzuZ2vl/V
+I0Fd/hKGWKPoai2gBSOOxrRH+fJY9v2eiMR3yryMI0aIIvrTbdNte7bZHh5c4xsiC/G7C0ZWN8Wr
+r/ARfsaI0MkM7SoLV+x+2NOdFoe0e4vT45L3kGj4XyDHaWDtb5d/JhfynV2tMXzKOniVEEhkgQI9
+i0M2SeQ/7G/EYRNRriL6DPj7dtMMnDJXJyZFKL4wfHGrenYsa5MVtVA6sk/mkgvIRa8V7+nX/9k=
+
+------=_NextPart_000_0000_E62824DE.D11512D4
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.onvif.org/logo.gif
+
+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
+------=_NextPart_000_0000_E62824DE.D11512D4--
